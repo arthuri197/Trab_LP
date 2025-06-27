@@ -43,7 +43,7 @@ esp32_control_temp_lamp/
 ├── platformio.ini
 └── README.md
 
----
+--
 
 ## ⚙️ Instalação e Execução
 
