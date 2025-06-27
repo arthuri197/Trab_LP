@@ -29,20 +29,21 @@ Este projeto utiliza um **ESP32**, um **sensor de temperatura DHT11** e um **mó
 ---
 
 ## 📁 Estrutura do Projeto
-
+```
 esp32_control_temp_lamp/
 ├── lib/
 │ ├── relay_actuator/
 │ │ ├── relay_actuator.h
 │ │ └── relay_actuator.cpp
 │ └── temp_controller/
-│ ├── temp_controller.h
-│ └── temp_controller.cpp
+│ │ ├── temp_controller.h
+│ │ └── temp_controller.cpp
+│ │
 ├── src/
 │ └── main.cpp
 ├── platformio.ini
 └── README.md
-
+```
 --
 
 ## ⚙️ Instalação e Execução
