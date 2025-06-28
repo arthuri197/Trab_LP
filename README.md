@@ -8,14 +8,15 @@ Este projeto utiliza um **ESP32**, um **sensor de temperatura DHT11** e um **mó
 
 ## 🔧 Materiais utilizados
 
-- ESP32 Dev Module
-- Sensor de Temperatura DHT11
-- Módulo Relé 5V
-- Lâmpada halógena 
-- Jumpers
-- Protoboard
-- Cabos elétricos
-- Plug macho de tomada
+- ESP32 Dev Module;
+- Sensor de Temperatura DHT11;
+- Módulo Relé 5V;
+- Lâmpada halógena; 
+- Jumpers;
+- Protoboard;
+- Cabos elétricos;
+- Plug macho de tomada;
+- Soquete para lâmpada.
   
 
 ---
