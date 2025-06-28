@@ -15,6 +15,7 @@ Este projeto utiliza um **ESP32**, um **sensor de temperatura DHT11** e um **mó
 - Jumpers
 - Protoboard
 - Cabos eléticos
+- Plug macho de tomada
   
 
 ---
