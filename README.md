@@ -14,7 +14,7 @@ Este projeto utiliza um **ESP32**, um **sensor de temperatura DHT11** e um **mó
 - Lâmpada halógena 
 - Jumpers
 - Protoboard
-- Cabos eléticos
+- Cabos elétricos
 - Plug macho de tomada
   
 
